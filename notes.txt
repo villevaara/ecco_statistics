@@ -1,0 +1,16 @@
+http://textminingonline.com/dive-into-nltk-part-v-using-stanford-text-analysis-tools-in-python
+https://stackoverflow.com/questions/42766351/how-to-import-stanford-pos-tagger
+
+https://impythonist.wordpress.com/2014/02/12/language-translation-with-python-part-2/
+
+1. get sample for each year
+1.1. write sample ids in csv
+2. evaluate books from each sample
+2.1. write results in csv
+3. get avg recognized/nonrecognized for each year
+3.1. write results in csv
+
+get bad word length counts
+get good word length counts
+
+year, rec, unk, ratio, rec-2, rec-3, ...
